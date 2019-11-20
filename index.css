@@ -1,0 +1,17 @@
+h1 {
+  font-size: 35pt;
+  font-family: 'Calistoga', cursive;
+  text-align: center;
+}
+body {
+  background-image: url(https://cdn4.vectorstock.com/i/1000x1000/23/33/cartoon-breed-of-dogs-seamless-pattern-background-vector-21932333.jpg);
+}
+form {
+  font-size: 20pt;
+  text-align: center;
+  font-family: 'Calistoga', cursive;
+  color: #cc6600;
+}
+.label{
+  color: black;
+}
